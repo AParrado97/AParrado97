@@ -1,0 +1,5 @@
+- 👋 Hi, I'm Alex
+- I’m interested in developing my coding capability through practice and repetition 
+- Currently a new graduate from George Mason Univeristy
+- I’m looking to collaborate on projects that tackle real world problems
+- 📫 How to reach me: parrado.alex@gmail.com 703-650-8773
